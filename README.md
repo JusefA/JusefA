@@ -2,7 +2,7 @@
 
 # Hi, I'm Jusef 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Science+student+%40+LUT+University;Full-stack+TypeScript+%26+Python+dev;I+build+real%2C+shippable+things;Data+viz+%7C+SaaS+%7C+non-profit+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Science+%40+LUT+University;Full-stack+Software+%26+dev;I+build+real%2C+shippable+things;Data+viz+%7C+SaaS+%7C+non-profit+apps)](https://git.io/typing-svg)
 
 </div>
 
