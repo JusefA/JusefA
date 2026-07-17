@@ -62,7 +62,7 @@
 
 **Finance Copilot**, a SaaS finance dashboard for small Finnish construction & trades companies — Next.js + Supabase + Vercel + Paddle (EU VAT) + OpenAI, with magic-link auth. [Link to website](https://finance-copilot-web3.vercel.app/)
 
-**Cloud Drive**, a full-stack document management app with a Node.js / Express / TypeScript backend, React / Vite frontend, MongoDB, and JWT auth. This was made for a course [Link to repo](#)
+**Cloud Drive**, a full-stack document management app with a Node.js / Express / TypeScript backend, React / Vite frontend, MongoDB, and JWT auth.[Link to repo](#)
 
 ## A bit more 🔎
 
