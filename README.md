@@ -76,18 +76,6 @@
 
 </details>
 
-<details>
-<summary><b>GitHub stats</b></summary>
-
-<br>
-
-<!-- 👇 Replace JusefA with your GitHub handle -->
-
-![Jusef's GitHub stats](https://github-readme-stats.vercel.app/api?username=JusefA&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JusefA&layout=compact&theme=tokyonight&hide_border=true)
-
-</details>
 
 ---
 
